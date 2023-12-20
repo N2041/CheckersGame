@@ -3,7 +3,7 @@ package checkers;
 public class Runner {
 
 	public static void main(String[] args) {
-		System.out.println("Github testing"); //work plz
+		System.out.println("Github testing"); //work plzzz
 
 	}
 
